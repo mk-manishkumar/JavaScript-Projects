@@ -1,4 +1,4 @@
-## ⭐ HTML & CSS PROJECTS ⭐
+## ⭐ JAVASCRIPT PROJECTS ⭐
 
 
 This repository comprises a collection of 15 impeccably designed HTML and CSS projects, exhibiting complete responsiveness, and seamlessly deployed on the Netlify platform.
