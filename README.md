@@ -1,7 +1,7 @@
 ## ⭐ JAVASCRIPT PROJECTS ⭐
 
 
-This repository comprises a collection of 15 impeccably designed HTML and CSS projects, exhibiting complete responsiveness, and seamlessly deployed on the Netlify platform.
+This README file serves as a handy directory, providing you with direct links to all the JavaScript projects I've created throughout my journey. Explore this compilation to discover a variety of exciting and functional projects, each showcasing my skills and creativity in the realm of JavaScript development.
 
 <br>
 
