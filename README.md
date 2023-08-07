@@ -5,6 +5,10 @@ This README file serves as a handy directory, providing you with direct links to
 
 <br>
 
+[Open Projects](https://js-projects-mk.netlify.app/)
+
+<br>
+
 ## 📌 Tech Stack
 <br>
 
