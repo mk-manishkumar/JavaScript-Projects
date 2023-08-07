@@ -29,7 +29,11 @@ This README file serves as a handy directory, providing you with direct links to
 | 04  |    [GitHub Wrapper API](https://github.com/mk-manishkumar/GitHub-Wrapper-API)     | [Live Demo](https://github-wrapper-api.netlify.app/) |
 | 05  |          [Pizzify](https://github.com/mk-manishkumar/pizzify)           | [Live Demo](https://pizzify.netlify.app/) |
 | 06  |          [CoinKeeper](https://github.com/mk-manishkumar/coinkeeper)           | [Live Demo](https://coinkeeper.netlify.app/) |
-| 07  |          [JavaScript Mini Projects](https://github.com/mk-manishkumar/javascript-mini-projects)           | [Live Demo](https://js-mini-projects-mk.netlify.app/) |
+| 07  |          [FreshMart](https://github.com/mk-manishkumar/FreshMart)           | [Live Demo](https://freshmartt.netlify.app/) |
+
+<br>
+
+> JavaScript Mini Projects -> [Git Repo](https://github.com/mk-manishkumar/javascript-mini-projects) -> [Live Demo](https://js-mini-projects-mk.netlify.app/)
 
 
 
