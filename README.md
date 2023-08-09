@@ -20,7 +20,7 @@ This README file serves as a handy directory, providing you with direct links to
 <br>
 
 
-## 🛑 Mini Projects 🛑
+## 🛑 Projects 🛑
 
 ### 📌 **Link: (don't forget to check readme also)**
 
